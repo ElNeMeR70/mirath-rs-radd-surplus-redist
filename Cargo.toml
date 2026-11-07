@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-radd-surplus-redist"
+version = "1.0.0"
+edition = "2021"
+description = "Al-Radd Estate Surplus Redistribution Solver (Excluding Spouses)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_radd_surplus_redist"
+path = "main.rs"
